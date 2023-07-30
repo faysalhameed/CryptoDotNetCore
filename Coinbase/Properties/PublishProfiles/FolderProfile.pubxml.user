@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Coinabase\Coinbase\Coinbase\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-07-13T05:56:32.6164896Z;True|2023-07-13T10:56:19.1112419+05:00;True|2023-07-13T10:07:32.5128877+05:00;True|2023-05-03T18:06:31.0129018+05:00;True|2023-05-03T17:57:38.6222487+05:00;True|2023-05-03T17:52:54.2238202+05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
